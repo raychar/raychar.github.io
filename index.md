@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Raychar's Official Website
-tagline: In construction
+title: 动效研究事务所
 ---
 {% include JB/setup %}
 
